@@ -2,7 +2,7 @@
 description: Layout Variants
 ---
 
-# Layouts Options
+# Theme Layouts
 
 {% hint style="info" %}
 You can edit this file at **`[ ../src/app/app-config.ts ]`**

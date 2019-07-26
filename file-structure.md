@@ -1,9 +1,9 @@
 # File Structure
 
-Under the `nextro/template/skeleton`folder you will find the project folder structure.
+Under the `next/template/skeleton`folder you will find the project folder structure.
 
 ```text
-nextro/template/skeleton/
+next/template/skeleton/
 ├── e2e/..
 ├── node_modules/..
 ├── src/
