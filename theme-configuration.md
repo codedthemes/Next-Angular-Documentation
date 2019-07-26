@@ -24,7 +24,7 @@ You can edit this file at **`[ ../src/app/app-config.ts ]`**
 {% code-tabs %}
 {% code-tabs-item title="app-config.ts" %}
 ```javascript
-export class NextroConfig {
+export class NextConfig {
   public static config = {
     layout: 'vertical', // vertical, horizontal
     subLayout: '', // horizontal-2

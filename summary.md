@@ -1,6 +1,6 @@
 # SUMMARY
 
-* [Introduction]()
+* [~~Introduction~~]()~~~~
 * [Quick Installation](quick-installation.md)
 * [File Structure](file-structure.md)
 * [Page Structure](page-structure.md)
